@@ -1,0 +1,2 @@
+Bem vindo(a) ao meu primeiro formulário e utilização do Git!
+Iniciei meus estudos de HTML/CSS/JS no inicio de 2020 mas por conta de pandemia, faculdade e trabalho tive que interromper... Hoje estou de volta :)
